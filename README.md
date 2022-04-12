@@ -4,7 +4,6 @@
 What I am currently exploring:
  - Haskell
  - Zig
- - Scheme
 
 I am interested in:
  - 🧠 AI
