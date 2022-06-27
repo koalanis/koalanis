@@ -3,11 +3,10 @@
 
 What I am currently exploring:
  - Haskell
- - Zig
+ - Scala
+ - Go
 
 I am interested in:
  - 🧠 AI
  - 🎮 Video Games
- - 💾 Data
- - ☁️ Cloud Services & Web Apps
  - 🐧 Linux
