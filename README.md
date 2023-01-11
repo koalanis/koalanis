@@ -2,7 +2,7 @@
 👋 Hi, I'm koalanis
 
 What I am currently exploring:
- - Haskell
+ - Elixir
  - Scala
  - Go
 
