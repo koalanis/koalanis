@@ -2,7 +2,7 @@
 👋 Hi, I'm koalanis
 
 What I am currently exploring:
- - Elixir
+ - Rust
  - Scala
  - Go
 
