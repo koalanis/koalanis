@@ -18,6 +18,6 @@ I am interested in:
 |year|lang|repo|
 |----|----|---|
 |2023|elixir|[link](https://github.com/koalanis/advent-elixir-2023)|
-|2022|go|[link](https://github.com/koalanis/advent-python-2015)|
+|2022|go|[link](https://github.com/koalanis/advent-go-2022)|
 |2021|scala|[link](https://github.com/koalanis/advent-scala-2021)|
 |2015|python|[link](https://github.com/koalanis/advent-python-2015)|
