@@ -1,5 +1,5 @@
 
-## 👋 sup
+## 👋 hi
 
 What I am currently exploring:
 
